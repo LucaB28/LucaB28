@@ -13,7 +13,7 @@ LUCA</a></h1>
 
 - 💬 Ask me about **Testing manual and Automation :D**
 
-- 📫 How to reach me **lucaban28@mail.com**
+- 📫 How to reach me **lucaban28@hotmail.com**
 
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
