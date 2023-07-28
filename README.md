@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm target="blank">
+<h1 align="center">Hi 👋, I'm 
 LUCA</a></h1>
 <h3 align="center">A passionate QA tester from Uruguay &#127470;&#127475</h3>
 
@@ -9,7 +9,7 @@ LUCA</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning more pytest y playwright <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning more pytest y playwright
 
 - 💬 Ask me about **Testing manual and Automation :D**
 
