@@ -30,4 +30,3 @@ LUCA</a></h1>
 
 Credit: [Luca Banchero](https://github.com/LucaB28)
 
-Last Edited on: 01/05/2023
