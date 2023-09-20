@@ -9,7 +9,7 @@ LUCA</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning more pytest y playwright
+- 🌱 I’m currently learning more playwright and pentesting
 
 - 💬 Ask me about **Testing manual and Automation :D**
 
