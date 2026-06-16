@@ -1,32 +1,76 @@
-<h1 align="center">Hi 👋, I'm 
-LUCA</a></h1>
-<h3 align="center">A passionate QA tester from Uruguay &#127470;&#127475</h3>
+<!-- ===== HEADER ===== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:2563EB&height=200&section=header&text=Luca%20Banchero&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=QA%20Tester%20%7C%20Automation%20%7C%20AI%20Testing&descAlignY=58&descSize=18" width="100%"/>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a href="https://github.com/LucaB28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+LUCA;A+passionate+QA+Tester+from+Uruguay+%F0%9F%87%BA%F0%9F%87%BE;Manual+%2B+Automation+Testing;Currently+learning+AI+Testing+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
+</div>
 
+<!-- ===== ABOUT ===== -->
+<table align="center" border="0">
+<tr>
+<td>
 
-- 🌱 I’m currently learning more IA Testing
+- 🔭 Currently learning **AI Testing**
+- 💬 Ask me about **Manual Testing & Automation**
+- 🌱 Sharpening skills in **QA frameworks & test design**
+- 📫 Reach me: **lucaban28@hotmail.com**
+- ⚡ Fun fact: I break things so users don't have to
 
-- 💬 Ask me about **Testing manual and Automation :D**
+</td>
+</tr>
+</table>
 
-- 📫 How to reach me **lucaban28@hotmail.com**
+<!-- ===== TECH STACK ===== -->
+<div align="center">
 
+### 🛠️ Tech & Tools
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lucabanchero28/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/LucaB28">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/luca_toto28">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+</div>
 
-Credit: [Luca Banchero](https://github.com/LucaB28)
+<!-- ===== STATS ===== -->
+<div align="center">
 
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucaB28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=2563EB" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaB28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=LucaB28&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=2563EB&currStreakLabel=8B5CF6" height="165" />
+
+</div>
+
+<!-- ===== SOCIALS ===== -->
+<div align="center">
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucaB28)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaban28@hotmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LucaB28&style=flat-square&color=8B5CF6)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:6D28D9&height=120&section=footer"/>
+
+</div>
